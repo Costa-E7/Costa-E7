@@ -14,7 +14,7 @@ _Atualmente atuo mais como backEnd_
 * Jogos 🎮
 * futebol ⚽
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true?theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=radical)
 
 ## Meios de contato
 
