@@ -14,6 +14,8 @@ _Atualmente atuo mais como backEnd_
 * Jogos 🎮
 * futebol ⚽
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 ## Meios de contato
 
 [<img aling="space-beetwen" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/oonly_shit/)
