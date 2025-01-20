@@ -1,9 +1,8 @@
 ## Eaaai 👽
 
-_Me chamo Eduardo, curso ADS na São Paulo Tech School (Sptech)_
+_Me chamo Eduardo, Sou formado em ADS pela São Paulo Tech School (Sptech)_
 
-_desenvolvedor fullstack na Linx,_
-_Atualmente atuo mais como backEnd_
+_desenvolvedor Backend na Linx,_
 
 # Principais linguagens de programação:
 
